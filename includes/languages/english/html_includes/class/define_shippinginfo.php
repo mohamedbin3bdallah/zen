@@ -1,0 +1,2 @@
+<p align="justify"><font size="2"> Your SATISFACTION IS GUARANTEED on every item you purchase from us. If you are unhappy with the item you receive, please 
+<a href="mailto:returns@click2egypt.com?subject=Return">Contact Us</a> and you can send it back for an exchange. If an exchange is not available, we will refund the amount that you paid for the item (shipping fees are not refundable).  Items needed to be returned in exactly the same condition as it arrived.</font></p>

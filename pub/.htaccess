@@ -1,0 +1,6 @@
+#prevent directory browsing -- for security
+IndexIgnore */*
+
+# Webhostingbuzz.com # Options All and FollowSymLinks are disabled on this server.
+# Webhostingbuzz.com # FollowSymLinks is automatically replaced to SymLinksIfOwnerMatch, All is changed heuristically.
+Options +SymLinksIfOwnerMatch -Indexes
